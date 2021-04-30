@@ -1,0 +1,29 @@
+{
+  "name": "evetro-tdd-workshop",
+  "version": "0.1.0",
+  "description": "A test workshop (scaffolding included) made for Evetro",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evetro/evetro-tdd-workshop.git"
+  },
+  "keywords": [
+    "tdd",
+    "testing",
+    "ava",
+    "test",
+    "first"
+  ],
+  "author": "Vegard Bjerkli Bugge <vegabug@live.no> (https://github.com/vegardbb)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/evetro/evetro-tdd-workshop/issues"
+  },
+  "homepage": "https://github.com/evetro/evetro-tdd-workshop#readme",
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
+}
