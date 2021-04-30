@@ -53,5 +53,5 @@ Stillaskoden du finner i dette repoet er tilpasset testrammeverket AVA. Hvis du 
 
 For "inspirasjon" til hvordan TDD utføres anbefales Stack - implementasjonen Robert C. Martin skrev på [denne presentasjonen](https://youtu.be/58jGpV2Cg50?t=2629) han holdt for Rabobank.
 
-Hver øvelse er innkapslet i sin egen katalog.
+Hver øvelse er innkapslet i sin egen katalog. I denne branchen finner du løsningsforslag til hver av oppgavene.
 
