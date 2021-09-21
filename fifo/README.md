@@ -1,6 +1,6 @@
 # Oppgave: Implementere en FIFO-kø (eller 'dequeue' i Python-land)
 
-En FIFO-kø er en datastruktur som til enhver tid peker på sitt eldste medlem. Køen har følgende overfladiske egenskaper. Man kan putte et element inn i køen (`push(element)`), man kan anskue det eldste elementet (`peek()`), og man kan dra ut det elste elementet, noe som resulterer i at det nest eldste elementet i køen blir synliggjort, samtidig som det eldste slettes fra køen (`pull()`).
+En FIFO-kø er en datastruktur som til enhver tid peker på sitt eldste medlem. Køen har følgende overfladiske egenskaper. Man kan putte et element inn i køen (`push(element)`), man kan anskue det eldste elementet (`peek()`), og man kan dra ut det eldste elementet (det som ble dyttet inn først), noe som resulterer i at det nest eldste elementet i køen blir synliggjort, samtidig som det eldste slettes fra køen (`pull()`).
 
 ```
 Inn              Ut
