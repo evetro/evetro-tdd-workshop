@@ -49,9 +49,10 @@ Trianguleringsteknikken er inndelt i tre faser. Parantesene indikerer hvilke av 
 
 De følgende øvelsene kjører i svært forenklede kontekster. Null server, null I/O, null GUI. De er imidlertid såpass komplekse at de får deg til å kjøre TDD-iterasjonen en god del ganger.
 
-Stillaskoden du finner i dette repoet er tilpasset testrammeverket AVA. Hvis du har klonet dette repositoriet til ditt står du fritt til å bruke det testrammeverket du selv er komfortabel med. Men stillaskoden er altså skrevet med AVA i commonjs - format for NodeJS - miljøet.
-
 For "inspirasjon" til hvordan TDD utføres anbefales Stack - implementasjonen Robert C. Martin skrev på [denne presentasjonen](https://youtu.be/58jGpV2Cg50?t=2629) han holdt for Rabobank.
 
 Hver øvelse er innkapslet i sin egen katalog.
 
+# Løsningsforslag
+
+Løsninger er primært presenter i modulær Javascript - format, men andre løsninger kan fint skrives i andre kjøretidsmiljøer.

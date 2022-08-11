@@ -33,7 +33,9 @@ decimalToRoman(0)
 decimalToRoman(-1)
 > Error('Cannot represent non-positive integers with Roman symbols') // Kan ikke representere negative tall
 romanToDecimal('ABC')
-> Error('Invalid symbol "A", at position 0') // ugyldig romersk symbol
+> Error('Invalid symbol "A", at index 0') // ugyldig romersk symbol
 romanToDecimal('CIIII')
-> Error('Invalid Roman Symbol "I", at position 4') // ugyldig romersk tall, oppgaven krever at funksjonen forklarer hvorfor
+> Error('Invalid Roman Symbol "I", at index 4') // ugyldig romersk tall, oppgaven krever at funksjonen forklarer hvorfor
 ```
+
+Coding Dojo har også en liknende kata-oppgave: [Roman Numerals](https://codingdojo.org/kata/RomanNumerals/)
