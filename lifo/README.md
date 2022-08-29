@@ -11,3 +11,7 @@ Inn   Ut
 ```
 
 Denne oppgaven er hentet fra Robert C. Martins foredrag hos Rabobank, [Clean Code](https://www.youtube.com/watch?v=7EmboKQH8lM).
+
+## Bonusoppgave
+
+Unngå bruk av ArrayList, lister, øvrige datastrukturer med stakk-liknende egenskaper. Altså, hold deg til lavnivå-begreper, og husk at vi **ikke** skal indeksere alle elementene, men bryr oss bare om å hente det øverste elementet til enhver tid!
